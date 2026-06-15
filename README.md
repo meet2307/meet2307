@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack web applications and improving my frontend design skills.<br><br>👯 I’m looking to collaborate on open-source projects, especially those involving React, Node.js, or Python.<br><br>🤝 I’m looking for help with mastering advanced system architecture and cloud deployment (AWS/GCP).<br><br>🌱 I’m currently learning DSA, System design, and Docker to build more scalable apps.<br><br>💬 Ask me about web development, UI/UX tips, or my favorite coding music playlists.<br><br>⚡ Fun fact I write code fueled entirely by iced coffee and can debug faster when nobody is watching.
+🔭 I’m currently working on building full-stack web applications and improving my frontend design skills.<br>👯 I’m looking to collaborate on open-source projects, especially those involving React, Node.js, or Python.<br>🤝 I’m looking for help with mastering advanced system architecture and cloud deployment (AWS/GCP).<br>🌱 I’m currently learning DSA, System design, and Docker to build more scalable apps.<br>💬 Ask me about web development, UI/UX tips, or my favorite coding music playlists.<br>⚡ Fun fact I write code fueled entirely by iced coffee and can debug faster when nobody is watching.
 
 
 ## 🌐 Socials:
